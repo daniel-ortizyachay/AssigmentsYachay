@@ -1,0 +1,61 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de datos
+*.csv
+*.tsv
+*.json
+*.db
+*.sqlite3
+
+# Modelos y archivos binarios
+*.pkl
+*.h5
+*.joblib
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Kafka
+*.kafka-logs
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de configuración de IDE
+.idea/
+*.iml
+
+# Archivos de prueba
+.coverage
+*.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+.cache/
