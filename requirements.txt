@@ -2,3 +2,4 @@ flask
 confluent-kafka
 numpy
 scikit-learn
+pytest
